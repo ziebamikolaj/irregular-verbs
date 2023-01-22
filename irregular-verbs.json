@@ -1,0 +1,698 @@
+[
+    {
+        "pol": "powstać",
+        "base": "arise",
+        "simple": "arose",
+        "participle": "arisen"
+    },
+    {
+        "pol": "obudzić się",
+        "base": "awake",
+        "simple": "awoke",
+        "participle": "awoken"
+    },
+    {
+        "pol": "być",
+        "base": "be",
+        "simple": "was / were",
+        "participle": "been"
+    },
+    {
+        "pol": "znosić",
+        "base": "bear",
+        "simple": "bore",
+        "participle": "borne"
+    },
+    { "pol": "bić", "base": "beat", "simple": "beat", "participle": "beaten" },
+    {
+        "pol": "stać się",
+        "base": "become",
+        "simple": "became",
+        "participle": "become"
+    },
+    {
+        "pol": "zaczynać",
+        "base": "begin",
+        "simple": "began",
+        "participle": "begun"
+    },
+    { "pol": "zginać", "base": "bend", "simple": "bent", "participle": "bent" },
+    {
+        "pol": "założyć się",
+        "base": "bet",
+        "simple": "bet",
+        "participle": "bet"
+    },
+    {
+        "pol": "wiązać",
+        "base": "bind",
+        "simple": "bound",
+        "participle": "bound"
+    },
+    { "pol": "gryźć", "base": "bite", "simple": "bit", "participle": "bitten" },
+    {
+        "pol": "krwawić",
+        "base": "bleed",
+        "simple": "bled",
+        "participle": "bled"
+    },
+    {
+        "pol": "dmuchać",
+        "base": "blow",
+        "simple": "blew",
+        "participle": "blown"
+    },
+    {
+        "pol": "psuć",
+        "base": "break",
+        "simple": "broke",
+        "participle": "broken"
+    },
+    {
+        "pol": "przynieść",
+        "base": "bring",
+        "simple": "brought",
+        "participle": "brought"
+    },
+    {
+        "pol": "nadawać",
+        "base": "broadcast",
+        "simple": "broadcast",
+        "participle": "broadcast"
+    },
+    {
+        "pol": "budować",
+        "base": "build",
+        "simple": "built",
+        "participle": "built"
+    },
+    {
+        "pol": "palić",
+        "base": "burn",
+        "simple": "burnt",
+        "participle": "burnt"
+    },
+    {
+        "pol": "wybuchać",
+        "base": "burst",
+        "simple": "burst",
+        "participle": "burst"
+    },
+    {
+        "pol": "kupować",
+        "base": "buy",
+        "simple": "bought",
+        "participle": "bought"
+    },
+    {
+        "pol": "odlewać",
+        "base": "cast",
+        "simple": "cast",
+        "participle": "cast"
+    },
+    {
+        "pol": "łapać",
+        "base": "catch",
+        "simple": "caught",
+        "participle": "caught"
+    },
+    {
+        "pol": "wybierać",
+        "base": "choose",
+        "simple": "chose",
+        "participle": "chosen"
+    },
+    {
+        "pol": "przylgnąć",
+        "base": "cling",
+        "simple": "clung",
+        "participle": "clung"
+    },
+    {
+        "pol": "przyjść",
+        "base": "come",
+        "simple": "came",
+        "participle": "come"
+    },
+    {
+        "pol": "kosztować",
+        "base": "cost",
+        "simple": "cost",
+        "participle": "cost"
+    },
+    {
+        "pol": "skradać się",
+        "base": "creep",
+        "simple": "crept",
+        "participle": "crept"
+    },
+    { "pol": "ciąć", "base": "cut", "simple": "cut", "participle": "cut" },
+    {
+        "pol": "handlować",
+        "base": "deal",
+        "simple": "dealt",
+        "participle": "dealt"
+    },
+    { "pol": "kopać", "base": "dig", "simple": "dug", "participle": "dug" },
+    { "pol": "robić", "base": "do", "simple": "did", "participle": "done" },
+    {
+        "pol": "nurkować",
+        "base": "dive",
+        "simple": "dived",
+        "participle": "dived"
+    },
+    {
+        "pol": "rysować",
+        "base": "draw",
+        "simple": "drew",
+        "participle": "drawn"
+    },
+    {
+        "pol": "marzyć",
+        "base": "dream",
+        "simple": "dreamt",
+        "participle": "dreamt"
+    },
+    { "pol": "pić", "base": "drink", "simple": "drank", "participle": "drunk" },
+    {
+        "pol": "jeździć",
+        "base": "drive",
+        "simple": "drove",
+        "participle": "driven"
+    },
+    {
+        "pol": "mieszkać",
+        "base": "dwell",
+        "simple": "dwelt",
+        "participle": "dwelt"
+    },
+    { "pol": "jeść", "base": "eat", "simple": "ate", "participle": "eaten" },
+    {
+        "pol": "spadać",
+        "base": "fall",
+        "simple": "fell",
+        "participle": "fallen"
+    },
+    { "pol": "karmić", "base": "feed", "simple": "fed", "participle": "fed" },
+    { "pol": "czuć", "base": "feel", "simple": "felt", "participle": "felt" },
+    {
+        "pol": "walczyć",
+        "base": "fight",
+        "simple": "fought",
+        "participle": "fought"
+    },
+    {
+        "pol": "znaleźć",
+        "base": "find",
+        "simple": "found",
+        "participle": "found"
+    },
+    { "pol": "pasować", "base": "fit", "simple": "fit", "participle": "fit" },
+    {
+        "pol": "uciekać",
+        "base": "flee",
+        "simple": "fled",
+        "participle": "fled"
+    },
+    {
+        "pol": "rzucać",
+        "base": "fling",
+        "simple": "flung",
+        "participle": "flung"
+    },
+    { "pol": "latać", "base": "fly", "simple": "flew", "participle": "flown" },
+    {
+        "pol": "zakazać",
+        "base": "forbid",
+        "simple": "forbade",
+        "participle": "forbidden"
+    },
+    {
+        "pol": "przewidywać",
+        "base": "forecast",
+        "simple": "forecast",
+        "participle": "forecast"
+    },
+    {
+        "pol": "zapomnieć",
+        "base": "forget",
+        "simple": "forgot",
+        "participle": "forgotten"
+    },
+    {
+        "pol": "wybaczyć",
+        "base": "forgive",
+        "simple": "forgave",
+        "participle": "forgiven"
+    },
+    {
+        "pol": "zamrozić",
+        "base": "freeze",
+        "simple": "froze",
+        "participle": "frozen"
+    },
+    { "pol": "dostać", "base": "get", "simple": "got", "participle": "got" },
+    { "pol": "dać", "base": "give", "simple": "gave", "participle": "given" },
+    { "pol": "iść", "base": "go", "simple": "went", "participle": "gone" },
+    {
+        "pol": "rosnąć",
+        "base": "grow",
+        "simple": "grew",
+        "participle": "grown"
+    },
+    { "pol": "wisieć", "base": "hang", "simple": "hung", "participle": "hung" },
+    { "pol": "mieć", "base": "have", "simple": "had", "participle": "had" },
+    {
+        "pol": "słyszeć",
+        "base": "hear",
+        "simple": "heard",
+        "participle": "heard"
+    },
+    {
+        "pol": "ukrywać",
+        "base": "hide",
+        "simple": "hid",
+        "participle": "hidden"
+    },
+    { "pol": "uderzyć", "base": "hit", "simple": "hit", "participle": "hit" },
+    {
+        "pol": "trzymać",
+        "base": "hold",
+        "simple": "held",
+        "participle": "held"
+    },
+    { "pol": "ranić", "base": "hurt", "simple": "hurt", "participle": "hurt" },
+    {
+        "pol": "trzymać",
+        "base": "keep",
+        "simple": "kept",
+        "participle": "kept"
+    },
+    {
+        "pol": "uklęknąć",
+        "base": "kneel",
+        "simple": "knelt",
+        "participle": "knelt"
+    },
+    {
+        "pol": "dziergać",
+        "base": "knit",
+        "simple": "knit",
+        "participle": "knit"
+    },
+    {
+        "pol": "wiedzieć",
+        "base": "know",
+        "simple": "knew",
+        "participle": "known"
+    },
+    { "pol": "położyć", "base": "lay", "simple": "laid", "participle": "laid" },
+    {
+        "pol": "prowadzić",
+        "base": "lead",
+        "simple": "led",
+        "participle": "led"
+    },
+    {
+        "pol": "pochylać się",
+        "base": "lean",
+        "simple": "leant",
+        "participle": "leant"
+    },
+    {
+        "pol": "przeskoczyć",
+        "base": "leap",
+        "simple": "leapt",
+        "participle": "leapt"
+    },
+    {
+        "pol": "uczyć się",
+        "base": "learn",
+        "simple": "learnt",
+        "participle": "learnt"
+    },
+    {
+        "pol": "odejść",
+        "base": "leave",
+        "simple": "left",
+        "participle": "left"
+    },
+    {
+        "pol": "pożyczać",
+        "base": "lend",
+        "simple": "lent",
+        "participle": "lent"
+    },
+    { "pol": "pozwolić", "base": "let", "simple": "let", "participle": "let" },
+    { "pol": "leżeć", "base": "lie", "simple": "lay", "participle": "lain" },
+    {
+        "pol": "zapalić się",
+        "base": "light",
+        "simple": "lit",
+        "participle": "lit"
+    },
+    {
+        "pol": "przegrać",
+        "base": "lose",
+        "simple": "lost",
+        "participle": "lost"
+    },
+    { "pol": "zrobić", "base": "make", "simple": "made", "participle": "made" },
+    {
+        "pol": "znaczyć",
+        "base": "mean",
+        "simple": "meant",
+        "participle": "meant"
+    },
+    { "pol": "spotykać", "base": "meet", "simple": "met", "participle": "met" },
+    { "pol": "kosić", "base": "mow", "simple": "mowed", "participle": "mown" },
+    { "pol": "płacić", "base": "pay", "simple": "paid", "participle": "paid" },
+    {
+        "pol": "udowodnić",
+        "base": "prove",
+        "simple": "proved",
+        "participle": "proven"
+    },
+    { "pol": "kłaść", "base": "put", "simple": "put", "participle": "put" },
+    { "pol": "wyjść", "base": "quit", "simple": "quit", "participle": "quit" },
+    { "pol": "czytać", "base": "read", "simple": "read", "participle": "read" },
+    {
+        "pol": "jeździć",
+        "base": "ride",
+        "simple": "rode",
+        "participle": "ridden"
+    },
+    {
+        "pol": "dzwonić",
+        "base": "ring",
+        "simple": "rang",
+        "participle": "rung"
+    },
+    {
+        "pol": "rosnąć",
+        "base": "rise",
+        "simple": "rose",
+        "participle": "risen"
+    },
+    { "pol": "biec", "base": "run", "simple": "ran", "participle": "run" },
+    {
+        "pol": "piłować",
+        "base": "saw",
+        "simple": "sawed",
+        "participle": "sawn"
+    },
+    {
+        "pol": "powiedzieć",
+        "base": "say",
+        "simple": "said",
+        "participle": "said"
+    },
+    { "pol": "widzieć", "base": "see", "simple": "saw", "participle": "seen" },
+    {
+        "pol": "szukać",
+        "base": "seek",
+        "simple": "sought",
+        "participle": "sought"
+    },
+    {
+        "pol": "sprzedać",
+        "base": "sell",
+        "simple": "sold",
+        "participle": "sold"
+    },
+    { "pol": "wysłać", "base": "send", "simple": "sent", "participle": "sent" },
+    { "pol": "ustawić", "base": "set", "simple": "set", "participle": "set" },
+    { "pol": "szyć", "base": "sew", "simple": "sewed", "participle": "sewn" },
+    {
+        "pol": "trząść",
+        "base": "shake",
+        "simple": "shook",
+        "participle": "shaken"
+    },
+    {
+        "pol": "strzyc",
+        "base": "shear",
+        "simple": "sheared",
+        "participle": "shorn"
+    },
+    { "pol": "uronić", "base": "shed", "simple": "shed", "participle": "shed" },
+    {
+        "pol": "błyszczeć",
+        "base": "shine",
+        "simple": "shone",
+        "participle": "shone"
+    },
+    {
+        "pol": "strzelić",
+        "base": "shoot",
+        "simple": "shot",
+        "participle": "shot"
+    },
+    {
+        "pol": "pokazać",
+        "base": "show",
+        "simple": "showed",
+        "participle": "shown"
+    },
+    {
+        "pol": "kurczyć",
+        "base": "shrink",
+        "simple": "shrank",
+        "participle": "shrunk"
+    },
+    {
+        "pol": "zamykać&nbsp;",
+        "base": "shut",
+        "simple": "shut",
+        "participle": "shut"
+    },
+    {
+        "pol": "śpiewać",
+        "base": "sing",
+        "simple": "sang",
+        "participle": "sung"
+    },
+    { "pol": "tonąć", "base": "sink", "simple": "sank", "participle": "sunk" },
+    { "pol": "siedzieć", "base": "sit", "simple": "sat", "participle": "sat" },
+    {
+        "pol": "spać",
+        "base": "sleep",
+        "simple": "slept",
+        "participle": "slept"
+    },
+    {
+        "pol": "zjeżdżać",
+        "base": "slide",
+        "simple": "slid",
+        "participle": "slid"
+    },
+    {
+        "pol": "rzucić",
+        "base": "sling",
+        "simple": "slung",
+        "participle": "slung"
+    },
+    {
+        "pol": "pachnieć",
+        "base": "smell",
+        "simple": "smelt",
+        "participle": "smelt"
+    },
+    { "pol": "siać", "base": "sow", "simple": "sowed", "participle": "sown" },
+    {
+        "pol": "mówić",
+        "base": "speak",
+        "simple": "spoke",
+        "participle": "spoken"
+    },
+    {
+        "pol": "pędzić",
+        "base": "speed",
+        "simple": "sped",
+        "participle": "sped"
+    },
+    {
+        "pol": "literować",
+        "base": "spell",
+        "simple": "spelt",
+        "participle": "spelt"
+    },
+    {
+        "pol": "spędzić",
+        "base": "spend",
+        "simple": "spent",
+        "participle": "spent"
+    },
+    {
+        "pol": "obracać",
+        "base": "spin",
+        "simple": "spun / span",
+        "participle": "spun"
+    },
+    {
+        "pol": "wylać",
+        "base": "spill",
+        "simple": "spilt",
+        "participle": "spilt"
+    },
+    {
+        "pol": "pluć",
+        "base": "spit",
+        "simple": "spit / spat",
+        "participle": "spit / spat"
+    },
+    {
+        "pol": "dzielić",
+        "base": "split",
+        "simple": "split",
+        "participle": "split"
+    },
+    {
+        "pol": "rozpuszczać",
+        "base": "spoil",
+        "simple": "spoilt",
+        "participle": "spoilt"
+    },
+    {
+        "pol": "rozprzestrzeniać",
+        "base": "spread",
+        "simple": "spread",
+        "participle": "spread"
+    },
+    {
+        "pol": "skakać",
+        "base": "spring",
+        "simple": "sprang",
+        "participle": "sprung"
+    },
+    {
+        "pol": "stać",
+        "base": "stand",
+        "simple": "stood",
+        "participle": "stood"
+    },
+    {
+        "pol": "kraść",
+        "base": "steal",
+        "simple": "stole",
+        "participle": "stolen"
+    },
+    {
+        "pol": "przyklejać",
+        "base": "stick",
+        "simple": "stuck",
+        "participle": "stuck"
+    },
+    {
+        "pol": "użądlić",
+        "base": "sting",
+        "simple": "stung",
+        "participle": "stung"
+    },
+    {
+        "pol": "śmierdzieć",
+        "base": "stink",
+        "simple": "stank",
+        "participle": "stunk"
+    },
+    {
+        "pol": "uderzać",
+        "base": "strike",
+        "simple": "struck",
+        "participle": "struck"
+    },
+    {
+        "pol": "zmagać się",
+        "base": "strive",
+        "simple": "strove",
+        "participle": "striven"
+    },
+    {
+        "pol": "przysięgać",
+        "base": "swear",
+        "simple": "swore",
+        "participle": "sworn"
+    },
+    {
+        "pol": "zamiatać",
+        "base": "sweep",
+        "simple": "swept",
+        "participle": "swept"
+    },
+    {
+        "pol": "spuchnąć",
+        "base": "swell",
+        "simple": "swelled",
+        "participle": "swollen"
+    },
+    { "pol": "pływać", "base": "swim", "simple": "swam", "participle": "swum" },
+    {
+        "pol": "machać",
+        "base": "swing",
+        "simple": "swung",
+        "participle": "swung"
+    },
+    { "pol": "brać", "base": "take", "simple": "took", "participle": "taken" },
+    {
+        "pol": "uczyć",
+        "base": "teach",
+        "simple": "taught",
+        "participle": "taught"
+    },
+    { "pol": "drzeć", "base": "tear", "simple": "tore", "participle": "torn" },
+    { "pol": "mówić", "base": "tell", "simple": "told", "participle": "told" },
+    {
+        "pol": "myśleć",
+        "base": "think",
+        "simple": "thought",
+        "participle": "thought"
+    },
+    {
+        "pol": "rzucać",
+        "base": "throw",
+        "simple": "threw",
+        "participle": "thrown"
+    },
+    {
+        "pol": "pchnąć",
+        "base": "thrust",
+        "simple": "thrust",
+        "participle": "thrust"
+    },
+    {
+        "pol": "nadepnąć",
+        "base": "tread",
+        "simple": "trod",
+        "participle": "trodden"
+    },
+    {
+        "pol": "rozumieć",
+        "base": "understand",
+        "simple": "understood",
+        "participle": "understood"
+    },
+    {
+        "pol": "budzić",
+        "base": "wake",
+        "simple": "woke",
+        "participle": "woken"
+    },
+    { "pol": "nosić", "base": "wear", "simple": "wore", "participle": "worn" },
+    { "pol": "tkać", "base": "weave", "simple": "wove", "participle": "woven" },
+    { "pol": "płakać", "base": "weep", "simple": "wept", "participle": "wept" },
+    { "pol": "moczyć", "base": "wet", "simple": "wet", "participle": "wet" },
+    { "pol": "wygrywać", "base": "win", "simple": "won", "participle": "won" },
+    { "pol": "wiać", "base": "wind", "simple": "wound", "participle": "wound" },
+    {
+        "pol": "nawijać",
+        "base": "wring",
+        "simple": "wrung",
+        "participle": "wrung"
+    },
+    {
+        "pol": "pisać",
+        "base": "write",
+        "simple": "wrote",
+        "participle": "written"
+    }
+]

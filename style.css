@@ -1,0 +1,75 @@
+/* Default styles for all elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1.05em;
+    font-family: "Times New Roman", Times, serif;
+}
+
+/* Table container */
+.table-container {
+    width: 100vw;
+    margin-top: 20px;
+}
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/* Table styles */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0 auto;
+}
+td,
+th {
+    border: 1px solid #a7a7a7;
+    padding: 10px;
+    text-align: center;
+}
+/* Table header style */
+th {
+    background-color: #d7d7d7;
+    font-weight: 600;
+    color: #333;
+}
+
+/* Alternate row style */
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* Table hover effect */
+tr:hover {
+    background-color: #e7e7e7;
+}
+
+/* Buttons */
+.button {
+    background-color: #fff;
+    border: 0.1em solid #bec1c5;
+    border-radius: 0.8em;
+    margin-bottom: 0.1em;
+    color: #0d172a;
+    cursor: pointer;
+    font-size: 0.5em;
+    text-align: center;
+    padding: 0.8em;
+    font-size: 0.7em;
+    text-decoration: none #0d172a solid;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button:hover {
+    background-color: #1e293b;
+    color: #fff;
+}
+.hide {
+    opacity: 0;
+}

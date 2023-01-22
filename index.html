@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="./style.css" />
+        <title>Irregular verbs</title>
+    </head>
+    <body>
+        <div class="table-container">
+            <table id="irregular-verbs-table">
+                <thead>
+                    <tr id="headrow">
+                        <th>Po polsku</th>
+                        <th>Base Form</th>
+                        <th>Simple Past</th>
+                        <th>Past Participle</th>
+                        <th class="button-container">
+                            <button class="button" id="show-all-button">
+                                Show all
+                            </button>
+                            <button class="button" id="reset-button">
+                                Reset
+                            </button>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody id="irregular-verbs-body"></tbody>
+            </table>
+        </div>
+
+        <script>
+            const tableBody = document.querySelector("#irregular-verbs-body");
+            const showAllButton = document.querySelector("#show-all-button");
+
+            showAllButton.addEventListener("click", () => {
+                const rows = tableBody.querySelectorAll("tr");
+                rows.forEach((row) => {
+                    const cells = row.querySelectorAll("td");
+                    cells.forEach((cell) => {
+                        cell.classList.remove("hide");
+                    });
+                });
+            });
+
+            function createTableRow(verb) {
+                const row = document.createElement("tr");
+                const pol = document.createElement("td");
+                const base = document.createElement("td");
+                const simple = document.createElement("td");
+                const participle = document.createElement("td");
+                const button = document.createElement("td");
+                const showButton = document.createElement("button");
+
+                pol.textContent = verb.pol;
+                base.textContent = verb.base;
+                simple.textContent = verb.simple;
+                participle.textContent = verb.participle;
+
+                showButton.textContent = "Show";
+                showButton.classList.add("button");
+
+                const cells = [pol, base, simple, participle];
+                const randomIndex = Math.floor(Math.random() * cells.length);
+
+                cells.forEach((cell, index) => {
+                    if (index !== randomIndex) {
+                        cell.classList.add("hide");
+                    }
+                    showButton.addEventListener("click", () => {
+                        cells.forEach((cell) => cell.classList.remove("hide"));
+                    });
+                });
+
+                button.appendChild(showButton);
+                row.appendChild(pol);
+                row.appendChild(base);
+                row.appendChild(simple);
+                row.appendChild(participle);
+                row.appendChild(button);
+
+                return row;
+            }
+
+            const resetButton = document.querySelector("#reset-button");
+            resetButton.addEventListener("click", () => {
+                const rows = tableBody.querySelectorAll("tr");
+                rows.forEach((row) => {
+                    const cells = row.querySelectorAll("td");
+                    cells.forEach((cell) => {
+                        if (cell.querySelector("button")) {
+                            // check if the cell contains a button
+                            return;
+                        }
+                        cell.classList.add("hide");
+                    });
+                    const randomIndex = Math.floor(
+                        Math.random() * (cells.length - 1)
+                    );
+                    cells[randomIndex].classList.remove("hide");
+                });
+            });
+
+            fetch("irregular-verbs.json")
+                .then((response) => response.json())
+                .then((irregularVerbs) => {
+                    irregularVerbs.forEach((verb) => {
+                        const row = createTableRow(verb);
+                        tableBody.appendChild(row);
+                    });
+                });
+        </script>
+    </body>
+</html>
